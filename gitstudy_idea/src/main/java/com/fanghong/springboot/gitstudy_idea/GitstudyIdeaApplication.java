@@ -10,4 +10,9 @@ public class GitstudyIdeaApplication {
         SpringApplication.run(GitstudyIdeaApplication.class, args);
     }
 
+    public void test(){
+
+        return;
+    }
+
 }
